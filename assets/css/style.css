@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+
+}
+
+h1 {
+    color: white;
+    font-family: Verdana;
+    Font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-family: Verdana;
+    Font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+    text-align: center;
+    ;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+    
+}
+
+.excursion-link {
+    text-align: center;
+}
+
+.excursion-video {
+    margin-top: 20px;
+}
+
+.phone-icon {
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.copyright p {
+    text-align: right;
+}
